@@ -26,7 +26,7 @@ main_buttons = [[
     InlineKeyboardButton('🔍 DEVELOPER', url='https://t.me/OS_GOOD_LOVE'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/OS_GOOD_LOVE')
 ],[
-    InlineKeyboardButton('💝 MOVIES DATABASE💐', url='https://youtube.com/@Tech_VJ')
+    InlineKeyboardButton('💝 MOVIES DATABASE💐', url='https://t.me/hilvlmovie')
 ],[
     InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
     InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
